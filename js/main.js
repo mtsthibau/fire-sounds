@@ -9,13 +9,15 @@ jQuery(function ($) {
     
     (function () {
 
-        $(".home-body").backstretch([ "images/slider/slider1.jpg","images/slider/slider2.jpg","images/slider/slider3.jpg"], {fade: 750,duration: 3000});
+        // $(".home-body").backstretch([ "images/firesounds/logo-animated.mp4","images/slider/slider3.jpg"], {fade: 750,duration: 3000});
+
+        // $(".home-body").backgroundImage = url('images/firesounds/logo-animated.mp4')
     
-        $(".body-multiple").backstretch([ "images/slider/slider7.jpg","images/slider/slider8.jpg","images/slider/slider9.jpg"], {fade: 750,duration: 3000});  
+        // $(".body-multiple").backstretch([ "images/slider/slider7.jpg","images/slider/slider8.jpg","images/slider/slider9.jpg"], {fade: 750,duration: 3000});  
 
-        $(".body-band").backstretch([ "images/slider/slider4.jpg","images/slider/slider5.jpg"], {fade: 750,duration: 3000}); 
+        // $(".body-band").backstretch([ "images/slider/slider4.jpg","images/slider/slider5.jpg"], {fade: 750,duration: 3000}); 
 
-        $(".body-personal").backstretch([ "images/slider/slider6.jpg","images/slider/slider2.jpg"], {fade: 750,duration: 3000});  
+        // $(".body-personal").backstretch([ "images/slider/slider6.jpg","images/slider/slider2.jpg"], {fade: 750,duration: 3000});  
 
     }());
 
